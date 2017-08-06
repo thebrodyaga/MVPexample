@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"MVP example "</string>
+    <string name="loading">Загрузка...</string>
+    <string name="empty">Что-то пошло не так</string>
+    <string name="reload">Повторить</string>
+    <string name="error_s">Ошибка сервера</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
